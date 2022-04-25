@@ -1,0 +1,22 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    background-color:green;
+    border-radius: 5vh;
+    border: 2px solid black;
+    /* align-items: center; */
+    /* display: flex;
+    justify-content: center; */
+  }
+  .oneLine {
+    color: white;
+  }
+  .twoLine {
+    color: white;
+  }
+  .threeLine {
+    color: white;
+  }
+  .num {
+    color: white;
+  }
